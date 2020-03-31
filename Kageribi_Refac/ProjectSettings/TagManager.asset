@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Floor
+  - Stage
   layers:
   - Default
   - TransparentFX
@@ -15,7 +17,7 @@ TagManager:
   - 
   - Sky
   - Filter
-  - 
+  - Player
   - 
   - 
   - 
@@ -46,4 +48,10 @@ TagManager:
     locked: 0
   - name: Filter
     uniqueID: 1276597455
+    locked: 0
+  - name: OBJ 01
+    uniqueID: 4161830293
+    locked: 0
+  - name: UI
+    uniqueID: 2658836973
     locked: 0
